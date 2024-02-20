@@ -1,0 +1,13 @@
+Laptop-2JDRUBDN vivobook S15 XS10UF
+ram 8 GB (7,88 GB utilizzabili)
+hard disk micron_1100_MTFDDAV256TBN
+processore intel(R) core (TM) iS-8250U CPU @ 1,60 GHz 1,80 GHz
+ID dispositivo D6F6B35C-6389-4590-A7F7
+ID prodotto 00325-81082-37000-AADEM
+sistema operativoa 64 bit basato su x64
+produttore asustek computer inc.
+edizione windows 11 home
+versione 23Hz
+build sistema operativo 22631.3155
+scheda di rete intel (R) dual band wireless - AC 8265 #2
+scheda video intel (R) UHD graphics 620
